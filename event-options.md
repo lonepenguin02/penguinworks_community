@@ -1,0 +1,14 @@
+# Fallout event options of stuff we can do (from most involved to least):
+- extended team events (Raids, Expeditions, etc.)
+- large triggered events (launches, bounty hunts, Encryptid, etc.)
+- Seasonal/limited event hunting (holiday scorched, treasure hunters, etc.)
+- small triggered events (Riding Shotgun, Grub Hunts, etc.)
+- daily challenges
+- advanced ingredient/flux farming and tea crafting
+- simple farming/gathering and cooking
+- treasure map/supply crate/bobblehead/technical data hunts
+- camp building
+- fishing with coffee-talk & music/background noise
+- camp browsing
+- fashion show
+- General RP/amplified stupidity

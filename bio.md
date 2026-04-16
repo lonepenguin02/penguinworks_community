@@ -1,0 +1,6 @@
+# Wasteland wanderer turned hover-racer turned space explorer - I wear lots of hats.
+## *RP Lore:*
+Hi I'm Penguin - I push a lot of buttons, and am still figuring out what most of them do :)  I wander the wasteland of Fallout 76 on a mission to spread the joy, silliness, and cool gear I collect with those who promote the good vibes.  I also do anti-gravity hover racing in Wipeout, and am just starting to get off-world and explore the wider universe in No Man's Sky.  I like to take photos of my journeys, and tinker around with art/music using some hardware I found lying around in vault storage.  No clue what I'm doing but we'll figure it out as we go; sometimes the best plan is no plan at all.
+
+## *IRL:*
+As a visually impaired former tech worker I have some basic software skills but am completely new to streaming, so I'm learning everything from scratch as I go and moving at my own pace as medical necessity dictates (see: very slowly.)  Your patience is appreciated as I make the transition into full-time content creation to support myself, and in return I'll work to promote a chill, casual atmosphere with no time constraints or required meetings :)
