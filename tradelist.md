@@ -22,7 +22,7 @@
 - Lots of other neat outfits/hats/etc someone might want that I can craft or drop, probably for free
 ### Plans
 - Advanced Drag
-- Brotherhood/Casual/Operative Underarmor Style
+- Casual/Operative Underarmor Style
 - Cutting Fluid
 - Gatling Plasma Gamma Wave Emitter
 - Gatling Plasma Stinging Core
