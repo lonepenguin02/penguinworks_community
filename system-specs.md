@@ -37,8 +37,6 @@ VGA compatible controller: Intel Corporation 2nd Generation Core Processor Famil
 # Misc
 ### Console
 PlayStation 5
-### PS5 Controller
-HexGaming Ultimate Hall Effect Wireless
 ### Capture device
 Elgato HD60 X external
 ### Mic
