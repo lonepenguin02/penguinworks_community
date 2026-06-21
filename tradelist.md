@@ -2,7 +2,6 @@
 ### Apparel
 - Asylum Worker Uniform Red
 - Asylum Worker Uniform Forest
-- Fasnacht Glowing Captain Mask
 - Responders Fireman Outfit
 - Traveling Leather Coat
 ### Plans
@@ -36,6 +35,5 @@
 - Ultracite Power Armor mods
 - Vintage Water Cooler
 ### Gear
-- Level 45 Indigo Baseball Bat (*only because it's a collector's piece*)
 - Lots of cool Armors, Underarmors, Power Armors - no weapons though them's the rules.
 - Improved Bait for fisheys
