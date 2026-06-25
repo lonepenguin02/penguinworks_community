@@ -8,7 +8,6 @@
 - Ultracite Optimized Servos
 - Ultracite Reactive Plates
 - Ultracite Tesla Coils
-- Ultracite Welded Rebar
 
 #######################################
 
