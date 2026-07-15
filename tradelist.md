@@ -4,10 +4,13 @@
 - Asylum Worker Uniform Forest
 - Responders Fireman Outfit
 - Traveling Leather Coat
+- Fasnacht Glowing Captain Mask
 ### Plans
 - Ultracite Optimized Servos
 - Ultracite Reactive Plates
 - Ultracite Tesla Coils
+- T-60 Purple Headlamp
+- T-60 Vault Boy Headlamp
 
 #######################################
 
