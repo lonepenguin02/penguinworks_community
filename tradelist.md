@@ -1,7 +1,6 @@
 # List of Fallout 76 dream stuff I *want* to obtain someday - chances of any of these dropping are...low.
 ### Apparel
 - Asylum Worker Uniform Red
-- Asylum Worker Uniform Forest
 - Responders Fireman Outfit
 - Traveling Leather Coat
 - Fasnacht Glowing Captain Mask
