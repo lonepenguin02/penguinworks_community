@@ -35,7 +35,7 @@ The company is structured as a sole-proprietor LLC.
 
 * Meet financial needs to cover costs of existing for company and founder  
 * Replace failing (salvaged) components needed to maintain communication and connectivity for streaming content, as well as further R\&D so that additional employment and income opportunities can be sought using actual quality equipment  
-* Meet goals to achieve at least Affiliate on the Twitch platform, and perform further research to see whether the described “*tailored gaming and comedic variety content*” has earnings potential.  Noting initial 50 followers, timeline tracking, and “Build a Community” goals have all already been met with little advertisement (see dynamically-updated goals information [here](https://drive.google.com/file/d/1JgxCYzDmZbTyZqbYS1AYkDlMHWcQs9F5/view?usp=drive_link).)
+* Meet goals to achieve at least Affiliate on the Twitch platform, and perform further research to see whether the described “*tailored gaming and comedic variety content*” has earnings potential.  Noting initial 50 and 90 followers, timeline tracking, and “Build a Community” goals have all already been met with little advertisement (see dynamically-updated goals information [here](https://drive.google.com/file/d/1JgxCYzDmZbTyZqbYS1AYkDlMHWcQs9F5/view?usp=drive_link).)
 
 ### Long term goals
 
